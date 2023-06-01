@@ -16,7 +16,7 @@ Finally, the web application was run with the Lighthouse applicaiton to ensure t
 
 The following link will direct you to the deployed web application:  
 
-Link to the webpage: 
+Link to the webpage: https://alyssapidgeon.github.io/Week-one-challenge-Horiseon/#social-media-marketing 
 
 This is an image of the web application's appearance: 
 
