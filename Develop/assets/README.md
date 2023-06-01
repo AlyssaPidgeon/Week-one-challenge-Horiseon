@@ -2,24 +2,24 @@
 
 ## Description
 
-Horiseon is a Social Solution Service and their webpage 
-1. accessible 
+Horiseon is a Social Solution Service and their webpage was refractored to improve the accessibility of the web application. 
 
-what problem does it solve: 
 
-with navigation links to each main section of content in the webpage to allow the user to be directed to the specific link 
+The navigation links to each main section of content in the webpage to allow the user to be directed to the specific link and each of the links were checked and corrected where applicable to ensure they were functioning. 
 
-Ran Lighthouse to ensure the website achieves 100% accessibility. 
+The HTML file was edited to follow semantic structure. The CSS file was edited to follow semantic structure and corrected and consolidated the selectors. 
 
-what did you learn: 
+Finally, the web application was run with the Lighthouse applicaiton to ensure the website achieves 100% accessibility. 
+
 
 ## Usage
 
-- how to access the webpage: 
+The following link will direct you to the deployed web application:  
 
-link to the webpage: 
+Link to the webpage: 
 
-image of the webpage: 
+This is an image of the web application's appearance: 
+
 
 Image: 
 	![description of image](image.jpg)
