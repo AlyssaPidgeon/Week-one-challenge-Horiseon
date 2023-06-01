@@ -22,7 +22,7 @@ This is an image of the web application's appearance:
 
 
 Image: 
-	![description of image](image.jpg)
+	![Image of web applciation](Horiseon Web Application Image.png)
 
 
 ## License 
